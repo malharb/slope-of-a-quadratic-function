@@ -21,3 +21,4 @@ slopei = (a_derivative * x_value)
 slope = slopei + b_derivative
 
 print(f'The slope when x is {x_value} is {slope}')
+input('Press ENTER to exit')
